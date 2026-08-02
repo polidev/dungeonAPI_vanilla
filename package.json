@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "name": "dungeon-api-vanilla",
+  "version": "1.0.0",
+  "description": "A practice **REST API** built with **Node.js + Express** implementing the **Model-View-Controller (MVC)** pattern. It provides full CRUD, pagination, and query-parameter filtering for three dungeon-themed resources: **Monsters**, **Heroes**, and **Items**.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polidev/dungeonAPI_vanilla.git"
+  },
+  "keywords": [],
+  "author": "polidev",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/polidev/dungeonAPI_vanilla/issues"
+  },
+  "homepage": "https://github.com/polidev/dungeonAPI_vanilla#readme"
 }
